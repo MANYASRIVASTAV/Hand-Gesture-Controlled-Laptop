@@ -25,6 +25,3 @@ like move, click, scroll, and right-click without touching hardware.
 - MediaPipe
 - PyAutoGUI
 
----
-
-## 📂 Project Structure
